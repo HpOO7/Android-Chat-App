@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1078608628458",
+    "firebase_url": "https://back-4dce8.firebaseio.com",
+    "project_id": "back-4dce8",
+    "storage_bucket": "back-4dce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078608628458:android:19657a6425439833",
+        "android_client_info": {
+          "package_name": "com.example.knight.b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078608628458-t25bvh5tqssb6d8so8u28ma6dhd0u0hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm4WKyv7CHl2Wl6gp4h0ZbDimfOUNO_9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
